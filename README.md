@@ -36,3 +36,23 @@ Due to licensing restrictions, we do **not** redistribute the original images. A
 We do not claim ownership of the original image content.
 
 If you are a rights holder and have concerns, please contact us.
+
+# Acknowledgements
+
+We thank the creators of the COCO and LVIS datasets:
+
+@misc{lin2015microsoft,
+      title={Microsoft COCO: Common Objects in Context},
+      author={Tsung-Yi Lin and Michael Maire and Serge Belongie and Lubomir Bourdev and Ross Girshick and James Hays and Pietro Perona and Deva Ramanan and C. Lawrence Zitnick and Piotr Dollár},
+      year={2015},
+      eprint={1405.0312},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+
+@inproceedings{gupta2019lvis,
+  title={LVIS: A Dataset for Large Vocabulary Instance Segmentation},
+  author={Gupta, Agrim and Dollar, Piotr and Girshick, Ross},
+  booktitle={Proceedings of the {IEEE} Conference on Computer Vision and Pattern Recognition},
+  year={2019}
+}
