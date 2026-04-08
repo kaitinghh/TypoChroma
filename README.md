@@ -41,6 +41,7 @@ If you are a rights holder and have concerns, please contact us.
 
 We thank the creators of the COCO and LVIS datasets:
 
+```bibtex
 @misc{lin2015microsoft,
       title={Microsoft COCO: Common Objects in Context},
       author={Tsung-Yi Lin and Michael Maire and Serge Belongie and Lubomir Bourdev and Ross Girshick and James Hays and Pietro Perona and Deva Ramanan and C. Lawrence Zitnick and Piotr Dollár},
@@ -56,3 +57,4 @@ We thank the creators of the COCO and LVIS datasets:
   booktitle={Proceedings of the {IEEE} Conference on Computer Vision and Pattern Recognition},
   year={2019}
 }
+```
