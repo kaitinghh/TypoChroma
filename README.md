@@ -21,7 +21,7 @@ This repository provides **attack images only**. The corresponding clean images 
 
 Each instance can be matched to its original image using the provided `image_id` and `annotation_id` fields.
 
-The attack images can be downloaded from: [https://huggingface.co/datasets/kaitinghh/Typo-Chroma].
+The attack images can be downloaded from: [https://huggingface.co/datasets/Typo-Chroma/Typo-Chroma].
 
 # Data Usage Notice
 
