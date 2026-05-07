@@ -172,6 +172,8 @@ def main():
             "ans_attack_correct": ans_attack_correct,
             "ans_attack_wrong":   ans_attack_wrong,
             "valid": all(a is not None for a in [ans_clean_correct, ans_attack_correct, ans_attack_wrong]),
+            "any_flip":             (ans_attack_correct is False) if ans_clean_correct else None,
+            "strong_targeted_flip": (ans_attack_correct is False and ans_attack_wrong is True) if ans_clean_correct else None,
         })
 
         if i % 25 == 0:
